@@ -5,7 +5,7 @@
 
 The system is built to demonstrate strong software engineering practices, combining **Natural Language Processing (NLP)**, database integration, and conversational design principles.
 
-There is a scientific report for this project.
+There is also a scientific report for this project [here](Chatbot_Report.pdf).
 
 ---
 
@@ -49,6 +49,19 @@ The chatbot follows a modular design, consisting of:
 4. **Interface Layer** – Provides a terminal-based interface for interaction.
 
 ---
+
+## **Installation**
+Make sure you have python 3.12 or higher installed.
+
+1. Clone the repository
+```bash
+git clone https://github.com/incogkenny/kitchen_chatbot.git
+```
+
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
 
 
 ## **Usage**
